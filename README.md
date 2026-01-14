@@ -1,7 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/BWN2-Kl_)
-[REPLACE ME!] 
 
-<<<<<<< HEAD
 # Yushiro Murakami
 
 **Eid: ymurakami**
@@ -24,7 +22,3 @@
 [My favorite movie: Whiplash](https://en.wikipedia.org/wiki/Whiplash_(2014_film))
 
 ![The poster of Whiplash](https://mossislandsounds.com/wp-content/uploads/2015/03/whiplash-poster.jpg)
-
-=======
-Add your profile details here
->>>>>>> 42dc607de9872117bc231501f3adaf2596d48577
